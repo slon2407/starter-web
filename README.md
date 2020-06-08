@@ -15,3 +15,7 @@ Example to show difference on commands
 ## Deploylment
 
 Some deployment text over here
+
+## Copyright
+
+2020 Git
