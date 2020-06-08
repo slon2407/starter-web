@@ -12,6 +12,10 @@ More purpose text
 
 Example to show difference on commands
 
+## How To Contribute
+
+Please do not
+
 ## Deploylment
 
 Some deployment text over here
