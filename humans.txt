@@ -6,7 +6,7 @@
     Jose Slon   joseslon2407@gmail.com
 
 # THANKS
-
+    Thanks to Rick Sanchez
     <name>
 
 # TECHNOLOGY COLOPHON
