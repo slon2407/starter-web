@@ -22,4 +22,4 @@ Some deployment text over here
 
 ## Copyright
 
-2020 Git
+2020 Git. All rights reserved.
