@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding text for learning purposes. Adding a line for rebasing example
+Adding text for learning purposes. Adding a line for rebasing example, then more changes from my feature branch too.
 
 ## Purpose
 
